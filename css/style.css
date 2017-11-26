@@ -97,6 +97,8 @@
     background-repeat: no-repeat;
     min-height: 1000px;
     padding-top: 120px;
+    background-position: center center;
+    background-size: cover;
 }
 
 .perfea span {
@@ -289,6 +291,7 @@
     min-height: 341px;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .dnl{
      padding-top: 100px;
