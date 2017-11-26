@@ -99,15 +99,21 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-}
+    }
+    
+    .dnl{
+     padding-top: 0px;
+    }
+    
     .foot{
     position: relative;
-}
+    }
+    
     .Top{
     position: absolute;
     right: 0%;
     bottom: 0%;
-}
+    }
 }
 
 /* for sm device */
